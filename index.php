@@ -4,7 +4,7 @@
 	$c = $_GET['c'];
 	$url ='https://m.kanman.com/';
 	$main = array(
-				'appname' => '漫画',
+				'appname' => '前端',
 				'banner'=> "",
 				'chapin'=> "",
 				'gezi'=> "",
